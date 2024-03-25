@@ -4,14 +4,12 @@
 	"description": "Update your discord status with a rich presence.",
 	"private": true,
 	"author": {
-		"name": "iCrawl",
-		"email": "icrawltogo@gmail.com"
+		"name": "ogger",
+		
 	},
 	"contributors": [
 		{
-			"name": "Frangu Vlad",
-			"email": "kingdgrizzle@gmail.com"
-		}
+		
 	],
 	"publisher": "icrawl",
 	"license": "MIT",
